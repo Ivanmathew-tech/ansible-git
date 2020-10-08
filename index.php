@@ -38,7 +38,7 @@ $output = shell_exec('echo $HOSTNAME');
 echo "<h1><center><pre>$output</pre></center></h1>";
 echo "<h1><center>Version1</center></h1>"
 ?>
-            </span><center><h1>Versin 0 </h1></center></span>
+            </span>
           </div>
         </div>
       </div>
